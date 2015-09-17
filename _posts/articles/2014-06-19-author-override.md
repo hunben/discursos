@@ -17,5 +17,7 @@ image:
 published: true
 ---
 
+![mini 2002 crooked a.jpg]({{site.baseurl}}/_posts/articles/mini 2002 crooked a.jpg)
+
 
 asi mero
