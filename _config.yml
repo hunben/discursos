@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Discursos
-locale: en_US
+locale: es_MX
 description: Traducciones de los discursos de Anandamurtii.
 logo: site-logo.png
 search: true
