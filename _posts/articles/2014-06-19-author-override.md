@@ -7,13 +7,13 @@ tags:
   - "sample-post"
   - readability
   - test
-author: billy_rick
+author: hunben
 comments: true
 share: true
 image: 
-  feature: "so-simple-sample-image-7.jpg"
-  credit: WeGraphics
-  creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
+  feature: null
+  credit: null
+  creditlink: null
 published: true
 ---
 
